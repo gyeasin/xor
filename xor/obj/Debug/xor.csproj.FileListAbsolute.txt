@@ -1,0 +1,6 @@
+D:\Testing\xor\xor\bin\Debug\xor.exe.config
+D:\Testing\xor\xor\bin\Debug\xor.exe
+D:\Testing\xor\xor\bin\Debug\xor.pdb
+D:\Testing\xor\xor\obj\Debug\xor.csprojResolveAssemblyReference.cache
+D:\Testing\xor\xor\obj\Debug\xor.exe
+D:\Testing\xor\xor\obj\Debug\xor.pdb
