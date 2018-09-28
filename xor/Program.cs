@@ -13,7 +13,7 @@ namespace xor
         static void Main(string[] args)
         {
             string a = "383035303031303930303831313137"; //value
-            string b = "313233343536373839313233343530";  //key
+            string b = "313233343536373839313233343531";  //key
             
 
             byte[] bKeyCom1 = HexToByte(a);
