@@ -15,6 +15,7 @@ namespace xor
             string a = "383035303031303930303831313137"; //value
             string b = "313233343536373839313233343535";  //key
             string d = "313233343536373839313233343535";  //key
+            string c = "313233343536373839313233343535";  //key
 
             byte[] bKeyCom1 = HexToByte(a);
             byte[] bKeyCom2 = HexToByte(b);
